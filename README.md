@@ -1,2 +1,2 @@
 # MP-Abr
-Intelligent Recognition Framework for Abnormal Behaviour
+MP-Abr: a framework for intelligent recognition of abnormal behaviour in multi-person scenarios
