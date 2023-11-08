@@ -9,3 +9,4 @@ MP-Abr: a framework for intelligent recognition of abnormal behaviour in multi-p
 ![](https://github.com/3083156185/MP-Abr/blob/main/Test%20results/60.png)  
 ![](https://github.com/3083156185/MP-Abr/blob/main/Test%20results/93.png)
 ![](https://github.com/3083156185/MP-Abr/blob/main/Test%20results/two%20walk%20one%20jump.png)
+![](https://github.com/3083156185/MP-Abr/blob/main/Test%20results/45.gif)  
